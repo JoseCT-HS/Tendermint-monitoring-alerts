@@ -25,7 +25,7 @@ Then, we will have to edit the redis.conf file as follow:
   rename-command RENAME ""
   rename-command DEBUG ""
   ```
-Once this is done, we can restart the REDIS service
+Once this is done, we can restart the REDIS service.
 ```
 sudo service redis-server restart
 sudo service redis-server status
