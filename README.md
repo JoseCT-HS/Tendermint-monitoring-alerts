@@ -1,6 +1,13 @@
-# Tendermint-monitoring-alerts
-Instructions to have in Telegram a monitoring tool for Tendermint chains.
+# Tendermint monitoring alerts for Agoric
+Instructions to have in Telegram a monitoring tool for Tendermint chains. This tutorial has been created for the Agoric project and its community. You can get more information about the project in the following links:
+Official website: https://agoric.com/
+Discord Channel: https://discord.com/invite/qDW8DRes4s
+Telegram Group: https://t.me/agoricsystems
+Medium: https://medium.com/agoric
+YouTube Channel: https://www.youtube.com/channel/UCpY91oQLh_Lp0mitdZ5bYWg
+Github: https://github.com/agoric
 
+## Instructions
 There is a monitoring software that allows to notify via Telegram programs with Tendermint strings. This software is called PANIC. To configure it we must execute the following commands:
 ```
 sudo apt-get install redis-server  -y
